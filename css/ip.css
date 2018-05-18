@@ -1,0 +1,147 @@
+
+.head{
+	position: relative;
+	width: 100%;
+	height: 27px;
+	margin: 10px 0px 20px 0px;
+}
+.shouji1{
+	width: 115px;
+	position: absolute;
+	left:50%;
+	margin-left: -57px;
+	float: left;
+}
+.shouji{
+	padding-left: 10px;
+	float: left;
+	}
+.shouji3{
+	float:right;
+}
+.shouji2{
+	float:right;
+}
+.img2a img{
+	width: 100%;
+	height: 100%;
+}
+.img2{
+	display: none;
+}
+ .imgt{
+ 	position: relative;
+ 	width: 100%;
+ 	background:#ccc;
+ 	height: 280px; 
+ }
+ .imgt .p{
+ text-align: center;
+ padding-top: 60px;
+ font-size: 16px;
+ line-height: 40px;
+ }
+ .imgt p span a{
+ 	background: black;
+ 	color: white;
+	width: 123px;
+	margin-left: auto;
+	margin-right: auto;
+ 	font-weight: bold;
+ 	font-size: 14px;
+ 	display: block;
+ }
+ .imgt p strong a{
+ 	color: black;
+ 	font-size: 14px;
+ }
+ 	
+ .img4{
+ 	width: 93%;
+ 	margin-left: 20px;
+ 	margin-top: 40px;
+ 	margin-bottom: 20px;
+ }
+ .img4 img{
+ 	width: 100%;
+ }
+ .img4-1{
+ 	margin-left: 20px;
+ 	width: 92%;
+ 	margin-top: 40px;
+ 	margin-bottom: 20px;
+ }
+ .img4-1 img{
+ 	width: 100%;
+ }
+ .imgz p a{
+		line-height: 43px;
+ }
+ .imgz p{
+	padding-right: 30px;
+ }
+ .h2{
+ 	margin-top: 20px;
+ 	margin-left: 20px;
+ }
+ .wtz{
+ 	height: 90px;
+ 	margin-top: 45px;
+ }
+ .wt{
+ 	margin-bottom: 45px;
+ 	line-height: 45px;
+ }
+ .wx img{
+ 	margin-top: 8px;
+ 	width: 32px;
+ 	height: 32px;
+ 	margin-left: 10px;
+ }
+ .wb img{
+ 	margin-top: 8px;
+ 	width: 32px;
+ 	height: 32px;
+ 	margin-left: 10px;
+ }
+ .foodz{
+ 	width: 100%;
+ 	height: 100%;
+ 	background-color:#ccc;
+ }
+ .foodz a{
+ 	color: black;
+ }
+ .food{
+ 	padding-top: 40px;
+ 	padding-left: 20px;
+ 	line-height: 30px;
+ }
+ .food ul{
+	font-size: 12px;
+ }
+ .food1 span{
+ 	display: inline-block;
+ 	margin-left: 20px;
+ 	font-size: 30px;
+ }
+ .food1 span1{
+ 	font-size: 12px;
+ }
+ .food1{
+ 	margin-top: 20px;
+ }
+ .food1 p{
+ 	margin-top: 20px;
+ 	margin-left: 20px;
+ 	font-size: 12px;
+ }
+ .nav{
+	display: none;
+}
+.shouji3 a{
+	display: none;
+}
+.imgtt,.imgttt,.imgtttt{
+	display: none;
+}
